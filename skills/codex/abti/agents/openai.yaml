@@ -1,0 +1,3 @@
+display_name: Abti
+short_description: Learning debrief before PR
+default_prompt: Run an Abti learning debrief for the current coding session.
