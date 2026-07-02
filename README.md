@@ -4,7 +4,7 @@
 
 # Abti
 
-Your Somali uncle for AI-assisted coding — turning coding sessions into learning debriefs before you open a PR.
+Your helpful uncle for AI-assisted coding — turning coding sessions into learning debriefs before you open a PR.
 
 Abti is a lightweight, platform-agnostic coding debrief skill. Near the end of an AI-assisted coding session, it helps you pause and understand what changed, what you practised, what the AI helped with, and what you should be comfortable explaining before you merge.
 
