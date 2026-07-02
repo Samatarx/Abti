@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/abti.png" alt="Abti illustration" width="420">
+</p>
+
 # Abti
 
 Your Somali uncle for AI-assisted coding — turning coding sessions into learning debriefs before you open a PR.
