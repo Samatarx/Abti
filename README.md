@@ -38,9 +38,20 @@ It should not include secrets, credentials, tokens, customer data, or sensitive 
 
 Abti is platform-agnostic.
 
-The first supported adapter is for Claude Code, and a generic prompt version is included for other AI coding tools, custom instruction files, rule files, or prompt libraries.
+Supported adapters are included for Claude Code and Codex. A generic prompt version is also included for other AI coding tools, custom instruction files, rule files, or prompt libraries.
 
 ## Installation
+
+### Codex
+
+Copy the Codex skill into your local Codex skills directory:
+
+```bash
+mkdir -p ~/.codex/skills
+cp -R skills/codex/abti ~/.codex/skills/abti
+```
+
+Then restart Codex so it can load the skill.
 
 ### Claude Code
 
@@ -77,7 +88,6 @@ Direct invocation counts as consent. If there is enough session context, Abti ge
 
 ## Roadmap
 
-- Claude Code skill
 - Generic prompt
 - Cursor rules
 - Windsurf rules
