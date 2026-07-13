@@ -72,6 +72,12 @@ React, TypeScript, form validation, API contracts, regression testing, accessibi
 Nothing was stored — this debrief lives only in this session.
 ```
 
+## Early Feedback
+
+> "I've kept Abti installed all week. The insights are genuinely useful and it's become part of how I wrap up work before opening a PR."
+>
+> — Senior Software Engineer
+
 ## Features
 
 - PR-time learning debriefs that help you understand what changed before merging.
@@ -235,6 +241,27 @@ Good contributions include:
 - New adapters that preserve consent and statelessness.
 
 Please avoid adding telemetry, analytics, storage, cloud services, dashboards, authentication, or monetisation features in this repository unless they are explicitly scoped as opt-in future work.
+
+## Support Abti
+
+If Abti helped you understand something you built, here are a few ways you can support the project:
+
+- ⭐ Star the repository
+- 🐛 Report bugs or suggest improvements
+- 💡 Open an issue if something feels confusing
+- 🤝 Share Abti with another developer
+
+Every issue, discussion, suggestion and star helps make Abti better.
+
+## Built by the Team Behind Offdays
+
+Abti is an independent open source project created by the team behind **Offdays**.
+
+Offdays helps people plan and manage their time off with a calm, privacy-first experience.
+
+If you'd like to support the people building Abti, take a look:
+
+→ https://offdays.io
 
 ## License
 
