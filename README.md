@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="assets/abti.png" alt="Abti illustration" width="252">
+  <img src="assets/meme.png" alt="Hook meme" width="525">
 </p>
-
 # Abti
 
 AI helps you ship faster. Abti helps you understand what you shipped.
@@ -24,6 +23,10 @@ Abti exists for that moment.
 It does not interrupt your coding flow. It waits until PR time, then offers a short learning debrief based only on the current session context. The goal is simple: help you leave the session with a clearer understanding of the code you are about to share.
 
 Abti means “maternal uncle” in Somali. The tone is intentionally calm and practical: a helpful senior engineer sitting with you for a minute before you open the pull request.
+
+<p align="center">
+  <img src="assets/abti.png" alt="Abti illustration" width="252">
+</p>
 
 ## Example
 
