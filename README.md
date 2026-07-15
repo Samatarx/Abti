@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/meme.png" alt="Hook meme" width="525">
+  <img src="assets/heading-meme.png" alt="Hook meme" width="525">
 </p>
 
 # Abti
